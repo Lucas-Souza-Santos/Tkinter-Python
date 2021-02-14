@@ -45,12 +45,15 @@ janela.maxsize(width=800, height=500)
 As duas formas acimas dão certo
 
 ```janela.state("zoomed")```
+
 inicia a janela nas larguras máximas
 
 ```janela.state("iconic")```
+
 inicia a janela nas larguras mínimas
 
 também pode ser mudado o icone da janela, usando:
+
 ```janela.iconbitmap("img/icone.ico")```
 
 o caminho passado é local do icone
